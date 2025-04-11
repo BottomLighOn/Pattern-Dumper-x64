@@ -1,3 +1,10 @@
+#dirs
+x64/
+x86/
+.vs/
+Release/
+Debug/
+
 # Prerequisites
 *.d
 
