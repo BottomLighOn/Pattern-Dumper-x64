@@ -57,3 +57,5 @@ The `input.json` file must follow this structure:
 - **`result_rva`** (`bool`): If `true`, result is saved as an RVA. If `false`, it’s an absolute address.
 
 > If both `relative_instruction_size` and `full_instruction_size` are `0`, the value found at the pattern is treated as an absolute address directly.
+
+⚠️ This is a minimal utility made for personal use and educational purposes.
